@@ -1,0 +1,6 @@
+Id, Name, City, Age
+000000000,Sapir Mamann,Atlit,23
+111111111,Meir Mamann,Haifa City,57
+222222222,Orel Mamann,Haifa,25
+333333333,Liran Mamann,Yoqneam,27
+444444444,Orit Elkayam,Atlit,50
